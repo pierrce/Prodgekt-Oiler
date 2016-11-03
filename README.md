@@ -1,2 +1,2 @@
-# Prodgekt-Oiler
-Naming it this way so no one doing the challenges will find this on Google.
+#Project Euler
+My solutions and attempts for the various problems on the website: https://projecteuler.net/
